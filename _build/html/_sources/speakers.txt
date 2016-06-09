@@ -59,6 +59,15 @@ ideas into successful business startups.  Her current role as the CTO for Mayon
 Studios, Inc., leads the innovation process from conceptualization to
 implementation, developing cloud services for web and mobile applications.
 
+.. image:: _static/images/speakers/irene.jpeg
+   :width: 150px
+   :align: left
+
+Irene Crisologo
+^^^^^^^^^^^^^^^
+
+Irene is a Geologist-in-training with a Physics background doing research in Meteorology. When she is not processing the Doppler Radar images in Project NOAH, she may be outdoors, somewhere in the middle of nowhere.
+
 .. image:: _static/images/speakers/ronen.png
    :width: 150px
    :align: left
@@ -230,7 +239,7 @@ occasionally contributes to various open source projects.
    :width: 150px
    :align: left
 
-Sony Valdez
+MrValdez
 ^^^^^^^^^^^
 
 Programmer. Gamer. Nerd. Mostly harmless.
@@ -261,7 +270,83 @@ Ray Diño
 ^^^^^^^^
 
 A Python and Django developer for 3 years. Currently exploring the world of data.
-    
+
+Community Panel
+----------------
+
+.. image:: _static/images/speakers/earvin.jpg
+   :width: 150px
+   :align: left
+
+Earvin Gemenez, DurianPy
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Earvin is one of the people who started a python community in Davao City named DurianPy and is also a co-founder of a mobile app named mealsprout. He loves to code, to eat, but most of the time to sleep.
+
+.. image:: _static/images/speakers/pat.jpg
+   :width: 150px
+   :align: left
+
+Ed Patrick Tan, DurianPy
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+A Pythonista and Djangonaut at Ingenuity (http://www.ingenuity.ph). Loves kite flying, stargazing and everything related to Astronomy!
+
+.. image:: _static/images/speakers/arbin.jpg
+   :width: 150px
+   :align: left
+
+Arbin Bulaybulay, SugarPy
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Arbin is a singer-songwriter turns Python developer since 2005.  His day job is a Technical Lead in a number one award-winning BPO company in the country.  Runs a small web shop Pysoldev in the night and builds his own startup.  An active community leader for SugarPy.
+
+.. image:: _static/images/speakers/christy.jpg
+   :width: 150px
+   :align: left
+
+Cristy Loraine Fuerzas, WaterPy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Christy has been using Python as backend for web development for over a year. She is still exploring the world of the language and is eager to learn more about it. She hopes to create more software using Python.​
+
+.. image:: _static/images/speakers/lio.jpg
+   :width: 150px
+   :align: left
+
+Lionel Amarado, PyTsada
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Lio is the founder of `Innovuze Solutions <http://www.innovuze.com/>`_ which started back in 2013 with around 3 developers. After 2 years, it's now a BPO company with more than 45 employees composed of developers, testers, content writers, SEO specialists, among others.
+
+
+.. image:: _static/images/speakers/matt.jpg
+   :width: 150px
+   :align: left
+
+Matt Lebrun, ManilaPy
+^^^^^^^^^^^^^^^^^^^^^
+
+Matt is a Python/Django craftsman at `Save22 <http://www.save22.com.ph/>`_ and an advocate of `Python PH <http://python.ph>`_. Loves teaching and learning.
+
+.. image:: _static/images/speakers/nadine.jpg
+   :width: 150px
+   :align: left
+
+Nadine Jamila, PyLadies Manila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nadine is passionate about programming and skin-diving! She has a degree in Management Engineering in Ateneo, and fell in love with code in UP.  She currently runs a small Python dev shop, and enjoys learning from and helping out people in the Python community!
+
+.. image:: _static/images/speakers/mickey.jpg
+   :width: 150px
+   :align: left
+
+Micaela Reyes, PyLadies Manila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Mickey is a Software Engineer at Freelancer.com. She's a big fan of Dicta License and believes that life is indeed *"more than just eating, breathing and accumulating"*--it's cheesy but there's no point denying it. Lover of Open Source and all things Python. Advocate at Python.PH and `PyLadies Manila <https://twitter.com/pyladiesmanila>`_.
+
 .. raw:: html
 
    </div>

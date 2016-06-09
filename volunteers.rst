@@ -1,29 +1,34 @@
 Volunteers
 ==========
 
-Call for Volunteers
--------------------
-
-PyCon Philippines is ran by volunteers. The previous PyCons would not have been
+PyCon Philippines is run by volunteers. The previous PyCons would not have been
 successful without the help of these individuals. This year will not be different.
 
-We have many roles that need to be filled to make PyCon PH 2015 awesome. Being a
-volunteer is hard work but they will be rewarded with:
+.. image:: _static/images/pycon-2014-volunteers.jpg
+   :width: 600px
+   :align: left
 
- - Free PyCon PH 2015 tickets
- - Free dinner on the first day with the speakers
- - Special and limited-run PyCon PH 2015 Volunteer T-shirt
- - PyCon PH 2015 volunteer's certificate
+*PyConPH 2014 Volunteers*
 
-.. raw:: html
+.. image:: _static/images/pycon-volunteers.jpg
+   :width: 600px
+   :align: left
 
-  <p>
-    <a href="http://link.python.ph/1MoYWwP">
-      <button class="big-button">
-        Become a volunteer
-      </button>
-    </a>
-  </p>
+*PyConPH 2015 Volunteers, June 27 Briefing*
+
+.. image:: _static/images/ateneo-ocular.jpg
+   :width: 600px
+   :align: left
+
+*Ocular visit at Ateneo*
+
+.. image:: _static/images/leong-roofdeck.jpg
+   :width: 600px
+   :align: left
+
+*Ocular visit at Ateneo*
+
+The spirit of volunteerism is what makes the Python community and tech events like PyCon distinctly inspiring. Below are the list of people who stepped up to bring you PyCon Philippines 2015:
 
 Conference Chair
 ----------------
@@ -44,11 +49,11 @@ Committee Chairs
 
   Joy is responsible for the design of promotional materials for PyCon. You may reach her at vermarijoyguarneslebrun@gmail.com.
 
-2. **Logistics Co-Chairs** - Matt Lebrun, Christine Balili and Kathleen Lara
+2. **Logistics Co-Chairs** - Christine Balili, Kathleen Lara and Matt Lebrun
 
-  Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
+  Christine, Kathleen and Matt are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
-  You can reach them at treasurer@python.ph (Matt), chrisbalili99@gmail.com, and kathleencastrolara@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
+  You can reach them at chrisbalili99@gmail.com, kathleencastrolara@gmail.com and treasurer@python.ph (Matt) or via Twitter `@tingbalili <https://twitter.com/tingbalili>`_ and `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_
 
 3. **Stage-hand Chair** - Josef Monje and Dian Leithon Isidro
 
@@ -72,7 +77,7 @@ Committee Chairs
 
   Sony and `Dulds <https://www.linkedin.com/in/rnduldulaojr>`_ are the people behind the `theme <http://pycon.python.ph/theme.html>`_ and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
 
-  You may reach Dulds at rduldulaojr@gmail.com
+  You may reach Dulds at rnduldulaojr@gmail.com
 
 
 Committee Members
@@ -81,13 +86,23 @@ The following individuals volunteered at least eight hours of their time during 
 
 Logistics Committee
 ^^^^^^^^^^^^^^^^^^^
-
 - Jadurani Davalos
-- Caryssa Sobrepena
 - Alysson Alvaran
 - Nikko Magalona
 - John Paul Llenaresas
 
 Stage-hand Committee
 ^^^^^^^^^^^^^^^^^^^^
+- Clarke Benedict Plumo
 - First Val Babon
+- Jonathan Doydora
+- Patrick Ofilada
+- Rommel Philip Afurong
+- Wilson Censon
+- Mark & Carlo
+
+Emcees
+------
+- Alysson Alvaran
+- Beato Bongco
+- Randall Sayat
